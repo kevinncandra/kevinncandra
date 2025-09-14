@@ -1,4 +1,4 @@
-Hi, I'm Fajar 👋
+Hi, I'm Kevin 👋
 ---
 Game Application and Technology undergraduate student that enjoys learning new things to broaden my knowledge and skills. My experiences have trained me in teamwork & collaboration, leadership, communication, flexibility, and adaptability. I like to be original and different from others with my imagination and creativity.
 
