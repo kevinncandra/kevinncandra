@@ -27,7 +27,7 @@ Check and download games I've developed at my itch page.
       <td valign="text-top">Trash Clash is a serious game designed to raise awareness about Sorting Trash. It was originaly made for HOLOGY 7.0 Game Development Division, educational game competition made by Brawijaya University and won the second place. Currently on the proccess of porting to mobile for google play store publish.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="[https://bawang-studio.itch.io/silenttrip">Itch page</a></td> <!--link1-->
+      <td align="center"><a href="https://bawang-studio.itch.io/silenttrip">Itch page</a></td> <!--link1-->
       <td align="center"><a href="https://bawang-studio.itch.io/trashclash">Itch page</a></td> <!--link2-->
     </tr>
     <tr>
